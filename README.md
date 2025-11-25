@@ -5,14 +5,14 @@ My name is Owen, better known as Zipper, I'm a Software Engineer from Washington
 
 I basically work on whatever I find cool and interesting.
 
-My main tech stack is Python, Bash, and C#. I'm currently trying to switch from VSCode to Neovim since I plan on moving over to (niri)[https://github.com/YaLTeR/niri] in the near future.
+My main tech stack is Python, Bash, and C#. I'm currently trying to switch from VSCode to Neovim since I plan on moving over to [niri](https://github.com/YaLTeR/niri) in the near future.
 
 I have a lot of projects that I've worked on but the ones I've had most fun on are the repos pinned below.
 
 # Fun Facts:
   - My favorite game is
   - I love zero sugar soda
-  - [b]Hobbies[/b]: Magic the Gathering, anime, reading, video games, art
+  - : Magic the Gathering, anime, reading, video games, art
 <!--
 **ZipperSys/ZipperSys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
