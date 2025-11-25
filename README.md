@@ -9,6 +9,8 @@ My main tech stack is Python, Bash, and C#. I'm currently trying to switch from 
 
 I have a lot of projects that I've worked on but the ones I've had most fun on are the repos pinned below.
 
+I'm also a **HUGE** Cyber Security nerd and enthusiast. I personally am on Arch Linux as my main operating system and learn on TryHackMe daily. *[profile here](https://tryhackme.com/p/ZipperSys)*
+
 **Fun Facts**:
   - My favorite game is Marvel Rivals
   - I love zero sugar soda
